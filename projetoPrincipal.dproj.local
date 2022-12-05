@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/14 21:51:21.000.013,=C:\Users\PDIVI-110\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 22:10:51.000.564,C:\PWM\Login.fmx=C:\Users\PDIVI-110\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/14 22:10:51.000.564,C:\PWM\Login.pas=C:\Users\PDIVI-110\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 22:11:20.000.805,C:\PWM\projetoPrincipal.dproj=C:\Users\PDIVI-110\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/01 13:14:43.000.621,=C:\PWM\uPermissoes.pas</Transaction>
+    <Transaction>2022/12/02 21:49:03.603,=C:\PWM\Unit1.pas</Transaction>
+    <Transaction>2022/12/02 21:51:45.371,C:\PWM\uAplicacao.fmx=C:\PWM\Unit1.fmx</Transaction>
+    <Transaction>2022/12/02 21:51:45.371,C:\PWM\uAplicacao.pas=C:\PWM\Unit1.pas</Transaction>
+    <Transaction>2022/12/04 23:05:17.578,=C:\PWM\Unit1.pas</Transaction>
+    <Transaction>2022/12/04 23:08:08.057,C:\PWM\uDM.pas=C:\PWM\Unit1.pas</Transaction>
+    <Transaction>2022/12/04 23:08:08.057,C:\PWM\uDM.dfm=C:\PWM\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="R9XNA0567CZ" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
